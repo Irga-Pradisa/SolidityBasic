@@ -18,6 +18,17 @@ A basic smart contract written in Solidity that allows users to store and retrie
   - Get the address of the current contract
   - Add int to another contracts
   - Safemath
+  - GetPrice
+  - GetConversionRate
+  - GetVersion
+  - Constant
+  - Immutable
+  - Withdraw
+  - Payable
+  - Bool
+  - Modifier
+  - Receive
+  - FallBack
 
 ## 🛠 Tech Stack
 
