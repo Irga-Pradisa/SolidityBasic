@@ -17,6 +17,7 @@ A basic smart contract written in Solidity that allows users to store and retrie
   - Import from another contracts or file
   - Get the address of the current contract
   - Add int to another contracts
+  - Safemath
 
 ## 🛠 Tech Stack
 
